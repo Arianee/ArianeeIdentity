@@ -1,0 +1,19 @@
+{
+  "name": "arianeeidentity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint './**/*.js?(x)'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@0xcert/ethereum-utils": "^1.7.0"
+  },
+  "devDependencies": {
+    "truffle": "^4.1.12",
+    "eslint": "^5.4.0"
+  }
+}
